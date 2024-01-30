@@ -6,7 +6,10 @@
   - [Add link to Honeypot Project](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python Projects</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+- <b>IT Projects</b>
+  - [Active Directory Project)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Networking Projects</b>
+  - [Create Homenetowrk & in Cisco Packet Tracer)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 
